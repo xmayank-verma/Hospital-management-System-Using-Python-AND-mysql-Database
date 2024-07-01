@@ -1,0 +1,2 @@
+# Hospital-management-System-Using-Python-AND-mysql-Database
+THIS IS MY FIRST PROJECT ON GITHUB. ITS FULL OF COMPLETE HOSPITAL MANAGEMENT.
